@@ -25,5 +25,5 @@ If you prefer browsing the contents of this site through a list instead of a gra
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
 - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
 
-[Integrated Math I Notes](../../../../IntegratedMath1/tree/main/Integrate%20Math%20I%20Notes)
+[Integrated Math I Notes](/Integrated Math I Notes)
 
